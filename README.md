@@ -4,5 +4,5 @@
 📫 You can reach me through my email: <br />
     cmmurgav@gmail.com
 
-Completed courses:
-Supervised Machine learning: regression and classification: <br />
+Completed courses:<br />
+Supervised Machine learning: regression and classification <br />
