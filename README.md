@@ -3,3 +3,7 @@
 🌱 I’m currently growing my skills in python programming primarily for data analysis, machine learning and statistics. <br />
 📫 You can reach me through my email: <br />
     cmmurgav@gmail.com
+
+Completed courses:
+Supervised Machine learning: regression and classification: <br />
+/account/accomplishments/?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course
