@@ -6,4 +6,3 @@
 
 Completed courses:
 Supervised Machine learning: regression and classification: <br />
-/account/accomplishments/?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course
