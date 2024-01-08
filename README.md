@@ -5,4 +5,4 @@
     cmmurgav@gmail.com
 
 Completed courses:<br />
-Supervised Machine learning: regression and classification <br />
+[Supervised Machine Learning: regression and classification (33 hours) ] (https://coursera.org/share/633333a0d96995df6d8cb031bd461d46) <br />
